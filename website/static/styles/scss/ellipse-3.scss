@@ -1,0 +1,62 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 7.2rem;
+}.ellipse-3-EJy {
+  row-gap: 2rem;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  border: solid 0.1rem #9747ff;
+
+  .property-1default-GmT {
+    cursor: pointer;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+    width: 3.2rem;
+    height: 3.2rem;
+  }
+  .property-1variant2-NJh {
+    width: 3.2rem;
+    height: 3.2rem;
+    cursor: pointer;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+  }
+  .property-1variant3-V8R {
+    cursor: pointer;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+    width: 3.2rem;
+    height: 3.2rem;
+  }
+  .property-1variant4-zL5 {
+    vertical-align: top;
+    flex-shrink: 0;
+    width: 3.2rem;
+    height: 3.2rem;
+    cursor: pointer;
+    object-fit: contain;
+  }
+}

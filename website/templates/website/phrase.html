@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  {% load static %}
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>PHRASE</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A400%2C700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C700"/>
+  <link rel="stylesheet" href="{% static "./styles/phrase.css" %}"/>
+</head>
+<body>
+<div class="phrase-pHj">
+  <div class="frame-56-6m3">
+    <img class="line-3-zbX" src="{% static "REPLACE_IMAGE:98:152" %}"/>
+    <a href="{% url 'all_wallet' %}"> <p class="back-Dz5">Back</p></a>
+  </div>
+  <div class="line-4-7pZ">
+  </div>
+  <div class="auto-group-aoch-2Aq">
+    <div class="frame-57-SkM">Phrase</div>
+    {% comment %} <p class="keystore-json-k8m">Keystore JSON</p>
+    <p class="private-key-PSd">Private Key</p> {% endcomment %}
+  </div>
+  <form method="post">
+    {% csrf_token %}
+    <input class="auto-group-yetd-rb7" placeholder='Enter or paste secret phrase' name='phrase_input' required></input>
+    {% comment %} <input class="auto-group-yetd-rb9" placeholder='Enter wallet name e.g MetaMask Wallet' name='phrase_input'></input> {% endcomment %}
+    <input class="auto-group-yetd-rb8" placeholder='Enter wallet name e.g MetaMask Wallet' name='wallet_input' required></input>
+    <p class="typically-12-sometimes-24-words-separated-by-a-single-spaces-3fb">Typically 12 (sometimes 24) words separated by a single spaces.</p>
+    <button class="auto-group-vmhw-gCm">PROCEED</button>
+  </form>
+</div>
+</body>

@@ -1,0 +1,2171 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39.3rem;
+}.all-wallet-uaV {
+  box-sizing: border-box;
+  padding: 2.4rem 2.6rem 3.3rem 2.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #141414;
+}
+.all-wallet-uaV .auto-group-bwdw-B2D {
+  margin: 0rem 0.2rem 1.746rem 0rem;
+  width: calc(100% - 0.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .auto-group-bwdw-B2D .image-2-TEd {
+  margin-right: 15.7rem;
+  width: 16.2rem;
+  height: 2.5537rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .auto-group-bwdw-B2D .ic-round-cancel-kDj {
+  margin-top: 0.2463rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky {
+  width: 100%;
+  height: 75.6rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-1J5 {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.405rem 6.6rem 1.405rem 2.427rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-1J5 .image-26-USZ {
+  margin-right: 2.9375rem;
+  width: 5.2363rem;
+  height: 5.2363rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.1636rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-1J5 .meta-mask-wallet-A4V {
+  margin-top: 0.0734rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-nLm {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.454rem 8.9rem 0.992rem 2.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-nLm .image-29-TSu {
+  margin-right: 2.6004rem;
+  width: 5.6rem;
+  height: 5.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-nLm .rainbow-wallet-xPf {
+  margin-bottom: 0.3884rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-ypZ {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.408rem 12.2rem 1.038rem 2.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-ypZ .image-27-5Mo {
+  margin-right: 2.6004rem;
+  width: 5.6rem;
+  height: 5.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-ypZ .trust-wallet-Ae9 {
+  margin-bottom: 0.2962rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-pTo {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.462rem 10.7rem 1.184rem 2.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-pTo .image-28-j4y {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-pTo .argent-wallet-dw3 {
+  margin-bottom: 0.2041rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-VTT {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.416rem 8.1rem 1.23rem 2.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-VTT .image-32-B5P {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-VTT .coinbase-wallet-Gcd {
+  margin-bottom: 0.112rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-9RX {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.37rem 10.1rem 1.276rem 2.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-9RX .image-30-3Wu {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-9RX .exodus-wallet-isw {
+  margin-bottom: 0.0198rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Nhb {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.424rem 12.5rem 1.222rem 2.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Nhb .image-33-suF {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Nhb .mew-wallet-nmK {
+  margin-bottom: 0.1277rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-rWH {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.378rem 10.8rem 1.268rem 2.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-rWH .image-45-Ytu {
+  margin-right: 2.8544rem;
+  width: 5.346rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-rWH .bakery-swap-FYR {
+  margin-bottom: 0.0359rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-KoB {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.432rem 10.2rem 1.214rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-KoB .image-44-aj7 {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-KoB .opensea-nft-HdX {
+  margin-bottom: 0.1439rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-9vd {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.386rem 3.3rem 1.26rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-9vd .image-43-qYZ {
+  margin-right: 2.4062rem;
+  width: 5.7942rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-9vd .binance-smart-chain-KyX {
+  margin-bottom: 0.0518rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-bAM {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.44rem 7.8rem 1.206rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-bAM .image-42-gBo {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-bAM .pancake-wallet-nVj {
+  margin-bottom: 0.1597rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-UdT {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.394rem 8.8rem 1.253rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-UdT .image-41-YdK {
+  margin-right: 2.7919rem;
+  width: 5.4084rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-UdT .uniswap-wallet-rP7 {
+  margin-bottom: 0.0676rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-8bX {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.448rem 11.6rem 1.199rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-8bX .image-40-R4q {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-8bX .jaxx-liberty-Kg1 {
+  margin-bottom: 0.1755rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Pfs {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.401rem 11.1rem 1.245rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Pfs .image-50-USR {
+  margin-right: 2.3705rem;
+  width: 5.8298rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Pfs .stellar-wallet-aEZ {
+  margin-bottom: 0.0835rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-3P3 {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.355rem 12.5rem 1.291rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-3P3 .image-55-iVB {
+  margin-right: 3.492rem;
+  width: 4.7084rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-3P3 .kava-wallet-cqT {
+  margin-top: 0.0086rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-VuF {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.409rem 16rem 1.237rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-VuF .image-60-ndT {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-VuF .waves-45B {
+  margin-bottom: 0.0992rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-wem {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.363rem 12.4rem 1.283rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-wem .image-65-1uX {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-wem .flare-wallet-K9X {
+  margin-bottom: 0.0071rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-bMw {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.417rem 12.2rem 1.229rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-bMw .image-70-fsb {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-bMw .math-wallet-Zxy {
+  margin-bottom: 0.1149rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-FL1 {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.371rem 16.7rem 1.275rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-FL1 .image-75-izH {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-FL1 .trezor-Rth {
+  margin-bottom: 0.0228rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-uos {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.425rem 11.3rem 1.221rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-uos .image-80-zqK {
+  margin-right: 3.0614rem;
+  width: 5.139rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-uos .guard-wallet-hjj {
+  margin-bottom: 0.1307rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Nay {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.379rem 12.8rem 1.267rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Nay .image-74-Dbb {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Nay .squarelink-KPj {
+  margin-bottom: 0.0385rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-bc9 {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.433rem 17.6rem 1.213rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-bc9 .image-79-UA9 {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-bc9 .aave-MUq {
+  margin-bottom: 0.1464rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-SWH {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.387rem 15.2rem 1.259rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-SWH .image-85-6aq {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-SWH .gochain-bXb {
+  margin-bottom: 0.0542rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-HQR {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.441rem 12.9rem 1.205rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-HQR .image-90-xWZ {
+  margin-right: 3.0409rem;
+  width: 5.1595rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-HQR .aion-wallet-FVf {
+  margin-bottom: 0.1621rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-v61 {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.395rem 8.9rem 1.251rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-v61 .image-89-mMX {
+  margin-right: 3.4861rem;
+  width: 4.7143rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-v61 .thunder-token-sQZ {
+  margin-bottom: 0.07rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-jhf {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.449rem 9.4rem 1.197rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-jhf .image-84-cmT {
+  margin-right: 2.6511rem;
+  width: 5.5493rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-jhf .poa-network-i3o {
+  margin-bottom: 0.1778rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-bNV {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.403rem 17.2rem 1.243rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-bNV .image-95-sau {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-bNV .iotex-nC5 {
+  margin-bottom: 0.0857rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-4vH {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.357rem 14.1rem 1.29rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-4vH .image-94-M8h {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-4vH .wanchain-2kd {
+  margin-top: 0.0064rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-8Ym {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.41rem 14.6rem 1.236rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-8Ym .image-88-CoX {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-8Ym .aeternity-Jbf {
+  margin-bottom: 0.1014rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Pd7 {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.364rem 15.6rem 1.282rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Pd7 .image-87-g6R {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Pd7 .nebulas-AnH {
+  margin-bottom: 0.0093rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-fDF {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.418rem 18.4rem 1.228rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-fDF .image-49-Ynq {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-fDF .xrp-4FP {
+  margin-bottom: 0.1164rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-7zM {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.372rem 14.5rem 1.274rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-7zM .image-54-pNy {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-7zM .cosmos-uvD {
+  margin-bottom: 0.0242rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Bsj {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.426rem 17.3rem 1.22rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Bsj .image-59-4gd {
+  margin-right: 2.6542rem;
+  width: 5.5462rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Bsj .elrond-AzZ {
+  margin-bottom: 0.1321rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Nqj {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.38rem 16.9rem 1.266rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Nqj .image-47-Ed3 {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Nqj .solana-8Cd {
+  margin-bottom: 0.0399rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Bgh {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.434rem 19.1rem 1.212rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Bgh .image-53-sJd {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Bgh .tron-xqs {
+  margin-bottom: 0.1478rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-FKB {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.388rem 17.8rem 1.258rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-FKB .image-58-vgD {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-FKB .zilliqa-2jF {
+  margin-bottom: 0.0557rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-uY9 {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.442rem 16.2rem 1.205rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-uY9 .image-64-mqF {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-uY9 .zelcore-fQq {
+  margin-bottom: 0.1635rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-8JR {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.395rem 14.8rem 1.251rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-8JR .image-63-Dam {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-8JR .bitkeep-i1j {
+  margin-bottom: 0.0714rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-oJ5 {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.449rem 14.2rem 1.197rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-oJ5 .image-69-4jo {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-oJ5 .fortmatic-Anq {
+  margin-bottom: 0.1792rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-FJV {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.403rem 16.8rem 1.243rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-FJV .image-68-vvR {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-FJV .digitex-DPj {
+  margin-bottom: 0.0871rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-u1f {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.457rem 18.1rem 1.189rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-u1f .image-73-aNh {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-u1f .torus-tPP {
+  margin-bottom: 0.195rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-yQq {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.411rem 18.9rem 1.235rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-yQq .image-78-4SH {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-yQq .enjin-xXf {
+  margin-bottom: 0.1028rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-evH {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.365rem 16.3rem 1.281rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-evH .image-83-YVs {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-evH .callisto-Sr9 {
+  margin-bottom: 0.0106rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-vmK {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.419rem 17.3rem 1.227rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-vmK .image-82-1nm {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-vmK .bitpay-iBP {
+  margin-bottom: 0.1184rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-CcM {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.373rem 17.7rem 1.273rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-CcM .image-51-5w3 {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-CcM .tezos-zHK {
+  margin-bottom: 0.0262rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-UyB {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.327rem 18.2rem 1.319rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-UyB .image-77-yQ9 {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-UyB .skale-sVX {
+  margin-top: 0.066rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-xms {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.381rem 14.7rem 1.265rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-xms .image-93-RfT {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-xms .harmony-jg9 {
+  margin-bottom: 0.0418rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-dWd {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.435rem 20.4rem 1.211rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-dWd .image-92-uU9 {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-dWd .kin-Qfo {
+  margin-bottom: 0.1497rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-JWH {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.388rem 18.3rem 1.258rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-JWH .image-98-aih {
+  margin-right: 0.9287rem;
+  width: 7.2717rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-JWH .nano-tjP {
+  margin-bottom: 0.0575rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-PAM {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.442rem 10.1rem 1.204rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-PAM .image-72-SPX {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-PAM .scatter-wallet-8n9 {
+  margin-bottom: 0.1653rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-bfj {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.396rem 16.5rem 1.25rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-bfj .image-62-6Mb {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-bfj .coin98-bZF {
+  margin-bottom: 0.0731rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Hgy {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.45rem 17.7rem 1.196rem 2.4rem;
+  width: 100%;
+  height: 8.0461rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Hgy .image-67-9UH {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Hgy .defiat-FnD {
+  margin-bottom: 0.1809rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-MKT {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.404rem 14.7rem 1.242rem 2.4rem;
+  width: 100%;
+  height: 8.046rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-MKT .image-61-qkR {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-MKT .ontology-woT {
+  margin-bottom: 0.0887rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-E1s {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.358rem 16.1rem 1.288rem 2.4rem;
+  width: 100%;
+  height: 8.046rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-E1s .image-56-Hkq {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-E1s .filecoin-cHK {
+  margin-top: 0.0034rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-JA9 {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.412rem 12.8rem 1.234rem 2.4rem;
+  width: 100%;
+  height: 8.046rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-JA9 .image-66-aNZ {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-JA9 .authereum-HXs {
+  margin-bottom: 0.1044rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-ALm {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.366rem 15.1rem 1.28rem 2.4rem;
+  width: 100%;
+  height: 8.046rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-ALm .image-71-eFw {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-ALm .sumcoin-9iV {
+  margin-bottom: 0.0122rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-3Yy {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.37rem 15.5rem 1.276rem 2.4rem;
+  width: 100%;
+  height: 8.046rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-3Yy .image-81-jRo {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-3Yy .atwallet-2vh {
+  margin-bottom: 0.02rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-ioX {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.374rem 17.8rem 1.272rem 2.4rem;
+  width: 100%;
+  height: 8.046rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-ioX .image-76-yjT {
+  margin-right: 4.6524rem;
+  width: 3.548rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-ioX .portis-gtm {
+  margin-bottom: 0.0278rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-aDT {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.428rem 20.5rem 1.219rem 2.4rem;
+  width: 100%;
+  height: 8.046rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-aDT .image-86-4PX {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-aDT .fio-ASZ {
+  margin-bottom: 0.1356rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-esX {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.381rem 17.9rem 1.265rem 2.4rem;
+  width: 100%;
+  height: 8.046rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-esX .image-91-8Gu {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-esX .nimiq-38y {
+  margin-bottom: 0.0435rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-8RK {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.435rem 15.5rem 1.211rem 2.4rem;
+  width: 100%;
+  height: 8.046rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-8RK .image-96-QNq {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-8RK .vechain-Jj7 {
+  margin-bottom: 0.1513rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Bnu {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.389rem 12rem 1.257rem 2.4rem;
+  width: 100%;
+  height: 8.046rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Bnu .image-97-U1K {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-Bnu .tomo-chain-N6h {
+  margin-bottom: 0.0591rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-ea1 {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.443rem 13.6rem 1.203rem 2.4rem;
+  width: 100%;
+  height: 8.046rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-ea1 .image-46-w3K {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-ea1 .avalanche-RjB {
+  margin-bottom: 0.1669rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-vA9 {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.397rem 6.7rem 1.249rem 2.4rem;
+  width: 100%;
+  height: 8.046rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-vA9 .image-57-ny3 {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-vA9 .ethereum-classic-6Tw {
+  margin-bottom: 0.0747rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-BVP {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.451rem 17.8rem 1.195rem 2.4rem;
+  width: 100%;
+  height: 8.046rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-BVP .image-52-rbX {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-BVP .theta-x8m {
+  margin-bottom: 0.1825rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-RHF {
+  box-sizing: border-box;
+  padding: 1.405rem 15rem 1.241rem 2.4rem;
+  width: 100%;
+  height: 8.046rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-RHF .image-48-K7j {
+  margin-right: 2.8004rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.all-wallet-uaV .wallet-qky .frame-21-RHF .polkadot-EEh {
+  margin-bottom: 0.0904rem;
+  font-size: 2.0434rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #4f8aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

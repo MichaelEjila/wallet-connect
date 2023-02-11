@@ -1,0 +1,64 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 37.3rem;
+}.error-overlay-Bed {
+  box-sizing: border-box;
+  padding: 4.12rem 0.1rem 4.8rem 0.1rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+  border-radius: 1.45rem;
+
+  .an-unknown-error-occurred-GRB {
+    line-height: 1.2125;
+    color: #ffffff;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+    margin: 0rem 0.1rem 1.595rem 0rem;
+    font-size: 2.32rem;
+    font-weight: 400;
+  }
+  .line-1-uDF {
+    margin: 0rem 0.125rem 4.54rem 0rem;
+    width: 36.975rem;
+    height: 0.145rem;
+    background-color: rgba(255, 255, 255, 0.200000003);
+    flex-shrink: 0;
+  }
+  .ok-kzZ {
+    overflow: hidden;
+    font-weight: 400;
+    border-radius: 0.6rem;
+    font-family: Inter, 'Source Sans Pro';
+    margin: 0 12.4rem;
+    height: 3.2rem;
+    color: #ffffff;
+    white-space: nowrap;
+    align-items: center;
+    flex-shrink: 0;
+    background-color: #4f8aff;
+    width: calc(100% - 24.8rem);
+    cursor: pointer;
+    position: relative;
+    font-size: 1.6rem;
+    line-height: 1.2125;
+    display: flex;
+    justify-content: center;
+  }
+}
